@@ -1,3 +1,14 @@
+<div align="center">
+
+## 🌐 Idioma / Language
+
+[![Português](https://img.shields.io/badge/🇧🇷_Português-selecionado-2ea44f?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-click_here-lightgrey?style=for-the-badge)](./README.en.md)
+
+</div>
+
+---
+
 # Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python
 ---
 <div align="center">
